@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91220ac8-98ed-45c4-8266-15bf9b3f8120" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/paulmendrik/storywriter" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f5LyOcD8uyedRh4RMq7c29t682" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/routes" />
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91220ac8-98ed-45c4-8266-15bf9b3f8120" name="Default Changelist" comment="" />
+      <created>1595503260666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595503260666</updated>
+      <workItem from="1595503262477" duration="2407000" />
+      <workItem from="1595573371240" duration="9577000" />
+      <workItem from="1595661364618" duration="23099000" />
+      <workItem from="1595746422612" duration="20757000" />
+      <workItem from="1595830120277" duration="18438000" />
+      <workItem from="1595916800667" duration="21888000" />
+      <workItem from="1596026906841" duration="8462000" />
+      <workItem from="1596093189418" duration="17920000" />
+      <workItem from="1596175695132" duration="20842000" />
+      <workItem from="1596264761104" duration="15469000" />
+      <workItem from="1596288854047" duration="2793000" />
+      <workItem from="1596297972018" duration="1986000" />
+      <workItem from="1596351496605" duration="20048000" />
+      <workItem from="1596437698683" duration="11544000" />
+      <workItem from="1596460913971" duration="1506000" />
+      <workItem from="1596523781724" duration="13163000" />
+      <workItem from="1596627942682" duration="433000" />
+      <workItem from="1596628442145" duration="1045000" />
+      <workItem from="1596629555361" duration="8393000" />
+      <workItem from="1596695026217" duration="17542000" />
+      <workItem from="1596783318279" duration="640000" />
+      <workItem from="1597232730082" duration="9062000" />
+      <workItem from="1597310577976" duration="7619000" />
+      <workItem from="1597319435322" duration="256000" />
+      <workItem from="1597319913003" duration="8433000" />
+      <workItem from="1597659767424" duration="60000" />
+      <workItem from="1604303909110" duration="9899000" />
+      <workItem from="1604664440808" duration="1251000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="712" y="249" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596627982746">
+      <screen x="0" y="23" width="2048" height="1042" />
+    </state>
+    <state x="712" y="249" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.2048.1042@0.23.2048.1042" timestamp="1596627982746" />
+    <state x="1028" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597314916007">
+      <screen x="0" y="23" width="2048" height="1042" />
+    </state>
+    <state x="1028" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2048.1042@0.23.2048.1042" timestamp="1597314916007" />
+    <state x="727" y="23" key="CommitChangelistDialog2" timestamp="1596543293874">
+      <screen x="0" y="23" width="2048" height="1042" />
+    </state>
+    <state x="727" y="23" key="CommitChangelistDialog2/0.23.2048.1042@0.23.2048.1042" timestamp="1596543293874" />
+    <state x="0" y="23" key="FileDocumentManager.FileCacheConflict" timestamp="1597313403049">
+      <screen x="0" y="23" width="2048" height="1042" />
+    </state>
+    <state x="0" y="23" key="FileDocumentManager.FileCacheConflict/0.23.2048.1042@0.23.2048.1042" timestamp="1597313403049" />
+    <state x="768" y="146" key="SettingsEditor" timestamp="1596537381882">
+      <screen x="0" y="23" width="2048" height="1042" />
+    </state>
+    <state x="768" y="146" key="SettingsEditor/0.23.2048.1042@0.23.2048.1042" timestamp="1596537381882" />
+    <state x="921" y="424" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596543266700">
+      <screen x="0" y="23" width="2048" height="1042" />
+    </state>
+    <state x="921" y="424" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.2048.1042@0.23.2048.1042" timestamp="1596543266700" />
+  </component>
+</project>
